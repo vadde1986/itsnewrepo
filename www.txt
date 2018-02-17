@@ -2,3 +2,7 @@ this nwe file for me
 modified by ashok
 new second line
 all lines commit by me
+
+this is  2ndmerge
+this is merge
+hi this is veeru
