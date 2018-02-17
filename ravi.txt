@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 hi ravi
 bdfdkfg
 gfglrgrgg
 gnnflglgg
 glgg
 
+=======
+kfkfddllgkg
+djkfkgnlg
+khi ravi	
+>>>>>>> newbranch
