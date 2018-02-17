@@ -3,6 +3,7 @@ modified by ashok
 new second line
 all lines commit by me
 
+<<<<<<< HEAD
 
 cdfkdfjdffgfflg
 fggkllhkhkhhklhk
@@ -10,3 +11,8 @@ gfgfkhh.hlhhlhlh
 ffg,fglhll;hl
 mfg,fllhhmhl
 
+=======
+this is  2ndmerge
+this is merge
+hi this is veeru
+>>>>>>> master2
