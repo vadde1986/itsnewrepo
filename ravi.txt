@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 hi ravi
 bdfdkfg
 gfglrgrgg
@@ -7,7 +6,6 @@ glgg
 kfkfddllgkg
 djkfkgnlg
 khi ravi	
->>>>>>> newbranch
 dffgkfvkvfb
 vjfgjg
 
