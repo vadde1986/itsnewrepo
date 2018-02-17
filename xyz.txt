@@ -1,7 +1,14 @@
 fscgdcdsoigcbdcgd d 
+<<<<<<< HEAD
 dusgcdkcjd8cd
 hgfjighrg,ghfdvndcydvefvhfev
 gmirejggji
 mviufdnfokkoibhtgm
 mvufdgnfdogherv
 mvuvfdgieiir
+=======
+dusgcdkcjd8c
+yfofoejgfghghfuivh
+nfyudfdfhduv
+fbydyfhfifjr8ghvd
+>>>>>>> newbranch
